@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-compile",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A small gulp plugin to compile your static html into javascript templates",
   "repository": "https://github.com/mike-engel/gulp-html-compile",
   "main": "gulp-html-compile.js",
