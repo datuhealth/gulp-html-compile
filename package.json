@@ -1,0 +1,36 @@
+{
+  "name": "gulp-html-compile",
+  "version": "0.1.0",
+  "description": "A small gulp plugin to compile your static html into javascript templates",
+  "repository": "https://github.com/mike-engel/gulp-html-compile",
+  "main": "gulp-html-compile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gulp",
+    "javascript",
+    "template",
+    "html",
+    "compiler",
+    "html",
+    "precompiler",
+    "precompiler"
+  ],
+  "author": {
+    "name": "Mike Engel",
+    "email": "mike@mike-engel.com",
+    "url": "http://github.com/mike-engel"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
