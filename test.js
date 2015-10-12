@@ -1,7 +1,7 @@
 'use strict';
 var assert = require('assert');
 var gutil = require('gulp-util');
-var tpl = require('./html-compile');
+var tpl = require('./gulp-html-compile');
 
 it('should precompile html templates', function(cb) {
 
